@@ -1,0 +1,51 @@
+.div-part{
+   background-color: #F6F6F6;
+   
+}
+.leatest-item{
+    color: #2959CE;
+}
+.leatest-num{
+    color: dimgray;
+}
+
+.leatest-items{
+    color: #2959CE;
+}
+.leatest-research-item{
+    color: #8D8D8D;
+    
+}
+.header-uz-ru-item{
+    background-color: #DCE6FF;
+    border-radius: 39px;
+    
+}
+.leatest-uz-item{
+    color:#000000;
+}
+.leatest-ru-item{
+    color: #A6A6A6;
+
+}
+
+.leatest-come-item{
+    background-color:#7296EC;
+    
+}
+.leatest-come{
+    color:#FFFFFF;
+    
+}
+
+.leatest-item-link{
+color: #7F7F7F;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+  
+}
+.under-line{
+  color: #D1D1D1;
+}
