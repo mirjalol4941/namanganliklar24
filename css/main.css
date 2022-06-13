@@ -91,3 +91,19 @@ font-weight: 500;
 font-size: 20px;
 line-height: 24px;
 }
+.footer-part{
+    background-color: #7297EF;
+}
+.footer-news-text{
+    color:#FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+}
+.footer-link{
+    color:#FFFFFF;
+}
+.info-list{
+    color:#FFFFFF;
+}
